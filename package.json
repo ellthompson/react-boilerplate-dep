@@ -40,9 +40,12 @@
     "babel-plugin-transform-object-rest-spread": "^6.5.0",
     "babel-plugin-transform-react-display-name": "^6.5.0",
     "babel-plugin-transform-react-jsx": "^6.5.2",
+    "css-loader": "^0.23.0",
+    "extract-text-webpack-plugin": "^1.0.1",
     "glob": "^7.0.0",
-    "webpack": "^1.12.14",
-    "webpack-dev-server": "^1.14.1",
-    "webpack-livereload-plugin": "^0.6.0"
+    "node-sass": "^3.2.0",
+    "postcss-loader": "^0.8.0",
+    "sass-loader": "^3.1.2",
+    "style-loader": "^0.13.0"
   }
 }
